@@ -1,7 +1,7 @@
 import {
   createContext,
   Fragment,
-  ReactNode,
+  type ReactNode,
   useCallback,
   useContext,
   useEffect,
@@ -15,7 +15,7 @@ import {
   Pressable,
   StyleSheet,
   View,
-  ViewProps,
+  type ViewProps,
 } from "react-native";
 
 type DialogContextType = {
