@@ -1,0 +1,25 @@
+{
+  "name": "rn-dialog",
+  "version": "0.1.0",
+  "description": "simple and minimal react native dialog",
+  "keywords": [
+    "react-native-dialog",
+    "react-native",
+    "rn-dialog",
+    "dialog",
+    "modal",
+    "popup",
+    "react-native-popup"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "github.com/abundiko/rn-dialog"
+  },
+  "license": "ISC",
+  "author": "abundiko",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
